@@ -3,4 +3,4 @@
 ## Getting Started
 
 ##  一个用于存放和分享Flutter学习中实现的小功能的项目
-##  源代码地址链接:
+##  源代码地址链接: https://github.com/LaughMe/flutter_learning.git
